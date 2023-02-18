@@ -1,19 +1,7 @@
-// function checkForSpam(message) {
-//   let result;
-//   // Change code below this line
-// // if (message.includes(spam)) {
-// //   result = true;
-// // } else {
-// //   result = false;
-// // }
-//   result = message.toLowerCase().includes('spam') || message.toLowerCase().includes('sale') ? true : false;
-//   // Change code above this line
-//   return result;
-// }
-
 // task-1
 // const productName = "Droid";
 // const pricePerItem = 2000;
+
 // console.log(productName); // 'Droid'
 // console.log(pricePerItem); // 2000
 
